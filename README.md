@@ -9,9 +9,9 @@ The main purpose of this project was to design the PCB layout and learn how to u
 
 
 # What's next ?
--This board is just a prototype and will have other versions in the near future.
--Get the parts and send the Gerber files to the manufacturer to have the PCB fabricated.
--Test the board.
+- This board is just a prototype and will have other versions in the near future.
+- Get the parts and send the Gerber files to the manufacturer to have the PCB fabricated.
+- Test the board.
 
 
 # Links
