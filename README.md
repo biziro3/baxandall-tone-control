@@ -7,6 +7,13 @@ The schematic was taken from the internet, and I tried to understand its functio
 The main purpose of this project was to design the PCB layout and learn how to use Altium Designer.
 
 
+
+# What's next ?
+-This board is just a prototype and will have other versions in the near future.
+-Get the parts and send the Gerber files to the manufacturer to have the PCB fabricated.
+-Test the board.
+
+
 # Links
 - [Texas Instruments](https://www.ti.com/lit/an/sloa042/sloa042.pdf?ts=1754303317043)
 - [Video1 Part 1](https://www.youtube.com/watch?v=f8DllUXnWA0&ab_channel=RPSProject)
